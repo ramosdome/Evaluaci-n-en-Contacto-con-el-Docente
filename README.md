@@ -55,7 +55,7 @@ La implementación del sistema se organiza mediante las siguientes funciones:
 Para ejecutar el programa, se debe abrir la terminal en la carpeta del proyecto y utilizar el siguiente comando:
 
 ```bash
-python codigo/control_gastos.py
+python Codigo/Sistema_control.py
 ```
 ## Fecha
 28/06/2026
