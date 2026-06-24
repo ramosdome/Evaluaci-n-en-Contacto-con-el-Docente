@@ -1,7 +1,4 @@
 
-
-
-
 # Esta función solicita al usuario el presupuesto semanal.
 # Su objetivo es validar que el valor ingresado sea numérico
 def solicitar_presupuesto():
